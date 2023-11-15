@@ -1,4 +1,4 @@
-import '../styles/main.scss';
+import '../styles/main.scss'; 
 import htmlStructure from '../components/htmlStructure';
 import header from '../components/header';
 import startSortingBtn from '../components/startSortingBtn';
